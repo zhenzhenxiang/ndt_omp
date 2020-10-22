@@ -4,3 +4,4 @@
 template class pclomp::NormalDistributionsTransform<pcl::PointXYZ, pcl::PointXYZ>;
 template class pclomp::NormalDistributionsTransform<pcl::PointXYZI, pcl::PointXYZI>;
 template class pclomp::NormalDistributionsTransform<pcl::PointXYZL, pcl::PointXYZL>;
+template class pclomp::NormalDistributionsTransform<pcl::PointXYZRGBL, pcl::PointXYZRGBL>;

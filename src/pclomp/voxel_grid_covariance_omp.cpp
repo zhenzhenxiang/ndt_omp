@@ -4,3 +4,4 @@
 template class pclomp::VoxelGridCovariance<pcl::PointXYZ>;
 template class pclomp::VoxelGridCovariance<pcl::PointXYZI>;
 template class pclomp::VoxelGridCovariance<pcl::PointXYZL>;
+template class pclomp::VoxelGridCovariance<pcl::PointXYZRGBL>;
